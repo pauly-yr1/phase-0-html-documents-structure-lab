@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+   <html>
+ <head>
+    <meta charset="UTF-8">
+    <title>Phase0 Doc Structure</title>
+ <link href="style.css" rel="stylesheet" type="text/css">
+ <title>Phase0 Document Structure</title>
+</head>
+<body>
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="company.css">
+<link rel="stylesheet" type="text/css" href="engineering-department.css">
+<link rel="stylesheet" type="text/css" href="project-x-launch.css">
+<link rel="stylesheet" type="text/css" href="typography.css"> 
+  <p>
+     <div class="main context"
+     <h1>"Document Structure"</h1>
+   
+
+     <body>
+   Every HTML document has a specific set of required tags. Because these are required every time
+    we create a web page, it is valuable to gain a more
+     in-depth understanding of what these tags do, why they are<span class="span-single"> useful,</span>
+      and how they work in context to the modern web.
+   </body>
+  <p class="p-color"
+  <p>
+  Every HTML document has a specific set of required tags. Because these are required every time
+    we create a web page, it is valuable to gain a more
+     in-depth understanding of what these tags do, why they are useful,
+      and how they work in context to the modern web.
+   </div>
+   </p>
+</html>
+<!-- This is a comment! --> 

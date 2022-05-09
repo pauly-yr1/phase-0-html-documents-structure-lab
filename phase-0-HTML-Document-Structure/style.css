@@ -1,0 +1,26 @@
+body {
+  background-color: #aaa;
+}
+
+p {
+  color: #61c97d;
+}
+
+.p-color{
+  color: blue;
+}
+
+.span-single{
+  color: #c383d6;
+}
+
+title {
+  text-align: center;
+}
+h1 {
+  font-size: 25vw;
+}
+
+p {
+  font-size: large;
+}
